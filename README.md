@@ -1,11 +1,11 @@
 
 # Hey, I'm Azmi
-### Web3 Dev
+### React Developer
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azmi-saleem-ap-151226234/)](https://www.linkedin.com/in/azmi-saleem-ap-151226234/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/azmi_sal__m/)](https://www.instagram.com/azmi_sal__m/) <img alt="vistors" src="https://visitor-badge.glitch.me/badge?page_id=azmisal.azmisal"/>
 
 - 🔭 I’m currently student at [GEC THRISSUR]
-- 💻 React Developer
+- 💻 Exploring Web
 - 📫 How to reach me: *azmisaleem96@gmail.com*
 
 
